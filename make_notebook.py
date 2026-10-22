@@ -7,7 +7,7 @@ from nbformat.v4 import new_notebook, new_markdown_cell, new_code_cell
 CELL_HEADER = """\
 # BrowseComp LLM Eval Harness
 
-Evaluate two OpenAI models on 20 BrowseComp tasks using LLM-as-a-judge.
+Evaluate two OpenAI models on 20 BrowseComp tasks using LLM-as-a-Judge.
 Models: `gpt-4o-mini` vs `gpt-4o`
 Sampling: 3 runs per task per model → 120 total inference calls
 """
