@@ -1,0 +1,10 @@
+openai
+pandas
+numpy
+scipy
+matplotlib
+requests
+beautifulsoup4
+ddgs
+nbformat
+jupyter
